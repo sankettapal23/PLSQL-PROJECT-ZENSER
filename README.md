@@ -7,3 +7,4 @@ Department Assignment: Complaints are assigned to relevant departments for resol
 Complaint Tracking: System tracks the status (Pending, In Progress, Resolved) of each complaint.
 Complaint History: A record of all status updates and actions taken for each complaint is maintained.
 ## Guidance:- Mr. Aniruddha Gaikwad
+
